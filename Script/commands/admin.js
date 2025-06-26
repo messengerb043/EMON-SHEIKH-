@@ -22,17 +22,17 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞      : EMONッ
+┃ 👤 𝐍𝐚𝐦𝐞      : EMON SHEIKHッ
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫    : 𝐌𝐚𝐥𝐞
 ┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : MARRIED 
 ┃ 🎂 𝐀𝐠𝐞       : 21
 ┃ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧  : 𝐈𝐬𝐥𝐚𝐦
-┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐝𝐢𝐩𝐥𝐨𝐦𝐚 𝐢𝐧 ECONOMICS
+┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Honours 𝐢𝐧 Economics
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Mymensingh, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : **********
-┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : https://t.me/The_morning_star71
-┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : Hasibul Islam Emon
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : emon.sheikh741
+┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : mantalboy07
+┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/share/1ZUmBvgh7x/
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ┗━━━━━━━━━━━━━━━━━━━━━┛
