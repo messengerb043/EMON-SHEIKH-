@@ -3,7 +3,7 @@ module.exports.config = {
   name: "islam",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "EMON SHEIKH❣️",
   description: "prefix VEDIO",
   commandCategory: "EMON SHEIKH❣️",
   usages: "love10 vedio",
