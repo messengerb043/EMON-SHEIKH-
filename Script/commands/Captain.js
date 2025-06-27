@@ -8,7 +8,7 @@ module.exports.config = {
 
  hasPermssion: 0,
 
- credits: "Islamick Cyber Chat",
+ credits: "Hasibul Islam",
 
  description: "random caption",
 
