@@ -2,7 +2,7 @@ module.exports.config = {
     name: "guard",
     eventType: ["log:thread-admins"],
     version: "1.0.0",
-    credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+    credits: "[ʜᴀꜱɪʙᴜʟ ɪꜱʟᴀᴍ ᴇᴍᴏɴ]",
     description: "Prevent admin changes",
 };
 
