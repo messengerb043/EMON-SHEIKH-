@@ -1,11 +1,10 @@
-const fs = require("fs-extra");
 const moment = require("moment-timezone");
 
 module.exports.config = {
   name: "caption",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
   description: "random caption",
   commandCategory: "caption",
   usages: "caption",
@@ -15,12 +14,12 @@ module.exports.config = {
 module.exports.handleEvent = async function ({ api, event, Users }) {
   const { threadID, messageID, body, senderID } = event;
 
-  if (!body || (!body.toLowerCase().startsWith("caption"))) return;
+  if (!body || !body.toLowerCase().startsWith("caption")) return;
 
   const name = await Users.getNameUser(senderID);
   const time = moment.tz("Asia/Dhaka").format("HH:mm:ss L");
 
-  const captions = [
+  const tl = [
     "- এক'ম།ত্র ভরস། (الله)🕋🪽",
     "°\n\n -ভালো থাকুক ক্যাপশনে রিয়েক্ট না দেওয়া ব্রয়লার মুরগি'রা...!!🐸\n\n°",
     "বে্ঁয়া্ঁদ্ঁবি্ঁ মা্ঁপ্ঁ ক্ঁর্ঁবে্ঁন্ঁ🫡আ্ঁপ্ঁনা্ঁকে্ঁ এ্ঁক্ঁটা্ঁ থা্ঁপ্প্ঁর্ঁ মা্ঁর্ঁতে্ঁ চা্ঁই্ঁ⎯͢😑⎯⃝💙",
@@ -72,9 +71,9 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "লাইফে এমন কিছু ডিপ্রেশন আছে😥\nযা সৃষ্টিকর্তা ছাড়া কারো কাছে প্রকাশ করা যায় না🤲🥀"
   ];
 
-  const randomCaption = captions[Math.floor(Math.random() * captions.length)];
+  const rand = tl[Math.floor(Math.random() * tl.length)];
 
-  return api.sendMessage({ body: randomCaption }, threadID, messageID);
+  return api.sendMessage({ body: rand }, threadID, messageID);
 };
 
-module.exports.run = function () {};
+module.exports.run = () => {};
