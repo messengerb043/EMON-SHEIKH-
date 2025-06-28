@@ -22,13 +22,14 @@ module.exports.run = async function({ api, args, Users, event}) {
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("T3R9 B99P BOT 3NT3R S9L3 APN3 B99P S3 JUB99N L9D9Y3G9🤞🏻👅👅");
 setTimeout(() => {a({body: " BOT KO G9LI D3N3 W9LO TUMH9RII B9HN KII (+)🙊💋" })}, 3000);
-setTimeout(() => {a({body: " T3RII M99 BHOSD99 F99D KR F3KH DUNG9 S9L33 H9WB99Z T9TT3💋🤣"})}, 5000);
+setTimeout(() => {a({body: " চুতমারানি চুদির পোলা  তর মায়রে চুদি তর মায়রে বাপ শালা শালার পো শালা হুমুন্দির পুত  মাঙ্গির পুত নাটকির পো ল্যাউড়ার পুত
+💋🤣"})}, 5000);
 setTimeout(() => {a({body: " T3RII M99 K3 BHOSD33 M3 MOOT DUNG99 M9RCHOXDD😜💔" })}, 7000);
 setTimeout(() => {a({body: " T3RII M9 KI (+) R9ND K3 B9XH33🤚🏻💋" })}, 9000);
 setTimeout(() => {a({body: " T3RII B9HN KO YHI P979K KR CHOD DUNG99 S9L3😈😍" })}, 12000);
 setTimeout(() => {a({body: " T3RI B9HN KI G9ND P3 LOD9 F3KH KR M9RUNG9 S9L3😈👿" })}, 15000);
 setTimeout(() => {a({body: " T3RII DIDI KI XHUTT M3 LOD9 D3KR TOD DUNG9 S9L3" })}, 17000);
-setTimeout(() => {a({body: " 73RII BH9NN K0 PR36N377 KRUU S9L3💋❤" })}, 20000);
+setTimeout(() => {a({body: " হারামি হারামজাদা হারামখোর খাঙ্কিরপোলা খান্কি মাগির পোলা চোদনা চুদির ভাই 🙊💋❤" })}, 20000);
 setTimeout(() => {a({body: "T3RII M99 K99 BHOXD99 F99D DUNG99 B9HN K3 LOD33😂💋🤣" })}, 23000);
 setTimeout(() => {a({body: " T3RII M99 K99 BHOXD99 F99D DUNG99 B9HN K3 LOD33😋💋" })}, 25000);
 setTimeout(() => {a({body: " T3RII BH9N PR3GN37 HO GYII M3R3 L9ND S3 XHUDK3💋❤" })}, 28500);
